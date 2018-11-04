@@ -1,4 +1,5 @@
 # myconfig
 vs-code配置
-taken:  6a9e5715fe6d6ffdf2c2df6e03c9fdece7ed2cd8
-gistid:  a359fcf4a6fff288df8e5c22ce1f9f91
+6ed0b06f5e18b278a5901e3ab13dae3904d704c0  token
+57bcb46c09cedb0a52553836ed3e4f79  gistid
+
